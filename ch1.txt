@@ -4,3 +4,6 @@ ls -a
 
 git status --- shows all the untracked files
 git add  --- to add it to the staging area
+git commit --- used to commit the changes
+git log  --- to look at all the commits made  	
+git add . --- to stage all the files in the current directory
